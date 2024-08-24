@@ -8,3 +8,5 @@
 ### Appearance
 
 ### Fun Facts
+
+![An image of a tardigrade in water with a size comparison bar](images/tardigrade-1-eng-517.jpg)
