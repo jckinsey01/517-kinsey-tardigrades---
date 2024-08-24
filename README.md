@@ -2,9 +2,9 @@
 
  Practice for ENG 517 (Assignment #1)
 
-##Tardigrades
+## Tardigrades
 
 
-###Appearance
+### Appearance
 
-###Fun Facts
+### Fun Facts
